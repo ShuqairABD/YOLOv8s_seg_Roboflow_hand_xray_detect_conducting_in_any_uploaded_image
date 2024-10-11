@@ -1,0 +1,1 @@
+# YOLOv8s_seg_Roboflow_hand_xray_detect_conducting_in_any_uploaded_image
